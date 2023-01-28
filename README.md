@@ -1,0 +1,2 @@
+# Image-Video-processing-scripts-for-analyzing-and-manipulating-media-files
+A Python tool for processing images and videos with a GUI made with Tkinter and powered by OpenCV. Converts files to grayscale and applies a threshold to create binary images/videos. Ideal for developers interested in image and video processing, provides a foundation for building more complex tools. Well-commented and organized code.
